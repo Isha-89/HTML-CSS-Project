@@ -1,0 +1,45 @@
+html day 3
+<!DOCTYPE html> <!-- Document stated/type is html -->
+<html lang="en"> <!-- Root Element Starts -->
+    <!-- lang="en"
+        language used is English
+    -->
+<head> <!-- Storing the info of web page -->
+
+
+    <meta charset="UTF-8"> <!-- meta provides the information -->
+    <!-- charset="UTF-8" allows accessibility for all types of characters in ascii values 
+    Ascii -> American Standard Code for information interchange
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title helps you specify the name of your web page -->
+    <title> 
+        Basic-html5
+    </title>
+
+
+</head>
+<body> <!-- Display on web page -->
+    
+
+    <!-- Tags, Elements and Attributes -->
+
+    <!-- 
+    
+        What are Tags? 
+            -- Tags are anything enclosed between '<' and '>'
+
+        What are Elements ?
+            -- Elements are anything enclosed between opening and closing tags
+
+        
+        What are Attributes ?
+            -- Attributes are the additional information about the element
+            -- Attributes are always specified in the opening tag
+            -- Attributes are always in key=value pairs    
+    -->
+
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20240304094301/ASCII-Table.png" alt="">
+</body>
+</html>

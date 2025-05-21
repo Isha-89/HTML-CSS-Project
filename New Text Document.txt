@@ -1,0 +1,13 @@
+public class demo{
+     
+    public static void main (string s[])
+{
+      system.out.println("Hello all");
+example e=new example ();
+e.display();
+}
+
+}
+
+public class example{
+   public viod display
